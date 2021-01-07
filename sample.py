@@ -1,1 +1,2 @@
-print('Hello Bhagya Ponnaya')
+print('Hello Bhagya Ponnaya');
+print('Bhagya Kari Ponnaya');
